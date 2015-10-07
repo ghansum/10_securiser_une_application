@@ -1,6 +1,6 @@
 <?php
 require('include/connexion.php');
- session_start();
+session_start(); // ouverture de session
 $bSupprimer = false;
 /**
  * Vérifie si un identifiant de collection est fourni

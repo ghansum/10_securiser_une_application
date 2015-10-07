@@ -23,8 +23,6 @@ require 'include/connexion.php';
         <title>Sécuriser une application</title>
         <link href="css/principal.css" media="screen" rel="stylesheet" type="text/css" >
     </head>
-	
- <br>
 	<body>
         <?php require 'include/menu.php'; ?>
         <div id="contenu">

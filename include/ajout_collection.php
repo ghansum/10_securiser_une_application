@@ -1,6 +1,6 @@
 <?php
 /**
- * Si l'utilisateur a validé le formulaire
+ * Si l'utilisateur a validé le formulaire :
  */
 if (isset($_POST['ajouter'])) {
     /**
